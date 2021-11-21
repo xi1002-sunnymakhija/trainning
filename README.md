@@ -1,0 +1,2 @@
+# trainning
+algo training
