@@ -1,0 +1,21 @@
+
+0
+java:S1220""Move this file to a named package.
+\
+java:S1854	"ARemove this useless assignment to local variable "longestCommon".(ÄîÅËÿÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(Ü²„Úüÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(³õĞúÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(Ëª©úÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(“»ïüøÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(âˆäƒşÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(”¨×ıûÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(¾„ëüÿÿÿÿ
+M
+java:S1481	"2Remove this unused "longestCommon" local variable.(ÄîÅËÿÿÿÿÿ

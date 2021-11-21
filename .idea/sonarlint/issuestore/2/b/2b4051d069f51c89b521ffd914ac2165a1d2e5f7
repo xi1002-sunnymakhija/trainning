@@ -1,0 +1,13 @@
+
+0
+java:S1220""Move this file to a named package.
+J
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(σχ”
+Q
+java:S1854";Remove this useless assignment to local variable "collect".(χρ‹θ
+B
+java:S1481",Remove this unused "collect" local variable.(χρ‹θ
+<
+java:S1068"&Remove this unused "id" private field.(ζ¨η†
+<
+java:S1068!"&Remove this unused "id" private field.(ζ¨η†

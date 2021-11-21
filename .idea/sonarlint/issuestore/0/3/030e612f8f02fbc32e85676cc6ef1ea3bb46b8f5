@@ -1,0 +1,8 @@
+
+0
+java:S1220""Move this file to a named package.
+J
+java:S6212"/Declare this local variable with "var" instead.(µ¨Ñ¥ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(˜—‰ªşÿÿÿÿ
+8
+java:S2387"""c" is the name of a field in "A".(±ƒ
