@@ -26,3 +26,7 @@ MoveNegativeOneSide.java
  MoveNegativeOneSide
 UnionAndIntersectionOfTwoArray.java
  UnionAndIntersectionOfTwoArray
+RotateArrayByOne.java
+ RotateArrayByOne
+MaxSumContigousArrayKadane.java
+ MaxSumContigousArrayKadane

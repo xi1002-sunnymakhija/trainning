@@ -21,3 +21,7 @@ V
 ,adhoc/src/main/java/RuntimePolymorphism.java,0/3/030e612f8f02fbc32e85676cc6ef1ea3bb46b8f5
 R
 "array/src/main/java/Rectangle.java,a/9/a91fae97ac2feb78bd10ba3219f114ea2eae955f
+[
++array/src/main/java/MinMaxArrayElement.java,d/4/d47e4c4692223e5f925cb882c67e7e4f403d183a
+\
+,array/src/main/java/MoveNegativeOneSide.java,a/b/ab8ce1f66079379b725e3268c69b26a17872260b
