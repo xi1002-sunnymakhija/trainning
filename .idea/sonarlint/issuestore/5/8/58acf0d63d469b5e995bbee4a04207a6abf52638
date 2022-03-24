@@ -1,0 +1,16 @@
+
+c
+java:S3973 "HUse indentation to denote the code conditionally executed by this "for".(«–êƒþÿÿÿÿ
+0
+java:S1220""Move this file to a named package.
+H
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(§‘Š±
+J
+java:S6212"/Declare this local variable with "var" instead.(¯ðÐ¾ûÿÿÿÿ
+J
+java:S6212"/Declare this local variable with "var" instead.(ùó›Ìøÿÿÿÿ
+J
+java:S6212 "/Declare this local variable with "var" instead.(«–êƒþÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(¸«ÝŽ

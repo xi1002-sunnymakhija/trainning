@@ -1,0 +1,13 @@
+
+OWeb:AvoidCommentedOutCodeCheckï"Remove this commented out code.(ÂÒ”úÿÿÿÿ
+YWeb:UnsupportedTagsInHtml5Checkÿ"(Remove this deprecated "center" element.(Õäåøùÿÿÿÿ
+TWeb:UnsupportedTagsInHtml5Checkƒ"(Remove this deprecated "center" element.(ËıúÛ
+TWeb:UnsupportedTagsInHtml5Checkˆ"(Remove this deprecated "center" element.(„ãùÙ
+NWeb:TableWithoutCaptionCheck“" Add a description to this table.(ãÊ™şÿÿÿÿ
+@	Web:S5256“"%Add "<th>" headers to this "<table>".(ãÊ™şÿÿÿÿ
+JWeb:AvoidCommentedOutCodeCheck³"Remove this commented out code.(Ë¤€•
+IWeb:BoldAndItalicTagsCheck"Replace this <i> tag by <em>.(Ö–¼—şÿÿÿÿ
+TWeb:FrameWithoutTitleCheck "-Add a "title" attribute to this <iframe> tag.(Üµ¯Ú
+Z	Web:S5255ä"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(¨”¡
+Z	Web:S5255ä"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(¨”¡
+Z	Web:S5255ä"DAdd an "aria-label" or "aria-labbelledby" attribute to this element.(¨”¡

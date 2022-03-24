@@ -1,0 +1,18 @@
+
+0
+java:S1220""Move this file to a named package.
+J
+java:S6212"/Declare this local variable with "var" instead.(Ä¥ğ’ÿÿÿÿÿ
+E
+java:S6212"/Declare this local variable with "var" instead.(¬ŞÜŸ
+5
+java:S1659"Declare "k" on a separate line.(ŸØ•Ç
+N	java:S106"9Replace this use of System.out or System.err by a logger.(åÛÅí
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»õ·¯ıÿÿÿÿ
+5
+java:S1659"Declare "k" on a separate line.(ŸØ•Ç
+S	java:S106""9Replace this use of System.out or System.err by a logger.(êê–Ïúÿÿÿÿ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(¡µò¸
+S	java:S106("9Replace this use of System.out or System.err by a logger.(»õ·¯ıÿÿÿÿ
+S	java:S106."9Replace this use of System.out or System.err by a logger.(¤¤Åıÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(§›ªşÿÿÿÿ

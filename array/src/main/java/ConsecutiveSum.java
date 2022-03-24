@@ -15,35 +15,38 @@ public class ConsecutiveSum {
         for (int i = 0; i < ar.length - 1; i++) {
 
             int j = i;
-            int cnt = 1;
+            int cnt = ar[j];
             while (j != ar.length - 1 && (ar[j] + 1) == ar[j + 1]) {
-                cnt++;
+                //cnt++;
                 j++;
+                cnt= cnt+ar[j];
 
             }
             i = j;
             if (cnt > max)
                 max = cnt;
         }
-        System.out.println(max);
+        System.out.println("maximum sum is {}"+max);
     }
 
     private static int finConsecutiveSum(int[] ar) {
-        Map map= new HashMap<Integer, Integer>();
-        Arrays.asList(ar).stream().forEach(i->
+        Map<Integer, Integer> map= new HashMap<Integer, Integer>();
+        for(int m=0;m<ar.length;m++)
         {
-         map.put(i, i);
-        });
+            map.put(ar[m],ar[m]);
+        }
+
 
         int max =0;
         for(int k=0;k<ar.length-1;k++) {
             if(!map.containsKey(ar[k]-1))
             {
                 int num = ar[k];
-                int longestSeq =1;
+                int longestSeq =0;
                 while (map.containsKey(num)) {
+
+                    longestSeq= longestSeq+num;
                     num= num+1;
-                    longestSeq++;
                 }
                 if(longestSeq > max)
                     max= longestSeq;

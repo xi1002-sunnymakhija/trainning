@@ -1,10 +1,13 @@
 import java.util.Arrays;
 import java.util.List;
+import java.util.concurrent.ExecutorService;
 
 public class CalculateDuplicateEntry {
     final int x=0;
 
     public static void main(String[] a) {
+
+
 
         int[] nums = new int[]{1, 2, 3, 4, 5, 5};
         System.out.println(findDuplicate(nums));
@@ -12,9 +15,8 @@ public class CalculateDuplicateEntry {
 
     private static int findDuplicate(int[] nums) {
 
-        List ints= Arrays.asList(1,2);
-        List numsr= ints;
-        numsr.add(3.15);
+        //List ints= Arrays.asList(1,2);
+
 
         int slow = nums[0];
         int fast = nums[0];

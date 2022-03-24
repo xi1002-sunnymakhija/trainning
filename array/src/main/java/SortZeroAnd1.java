@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class SortZeroAnd1 {
     public static void main(String[] a)
     {
-        int[] ar = new int[]{1,0,1,2,0,4,1,1,2,2};
+        int[] ar = new int[]{1,0,1,2,0,1,1,2,2};
         int mid=0;
         int i=0;
         int high = ar.length-1;
@@ -29,8 +29,8 @@ public class SortZeroAnd1 {
                     high--;
                 }
         }
-
-        Arrays.asList(ar).forEach(System.out::println);
+        for(int j=0;j<ar.length;j++)
+        System.out.println(ar[j]);
 
     }
 }

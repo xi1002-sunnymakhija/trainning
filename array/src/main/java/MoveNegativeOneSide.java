@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class MoveNegativeOneSide {
     public static void main(String[] a) {
-        int[] ar = new int[]{0, 1, 0, 1, -1, 2, 3, -1};
+        int[] ar = new int[]{-1, 1, 0, 1, -1, 2, 3, -1};
         moveAside(ar);
     }
 

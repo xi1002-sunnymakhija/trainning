@@ -1,32 +1,57 @@
-SortZeroAnd1.java
- SortZeroAnd1
-ConsecutiveSum.java
- ConsecutiveSum
-FindMissingAndDuplicate.java
- FindMissingAndDuplicate
+MeanCalculator.java
+ MeanCalculator
 CalculateDuplicateEntry.java
  CalculateDuplicateEntry
+UnionAndIntersectionOfTwoArray.java
+ UnionAndIntersectionOfTwoArray
+KthMinElement.java
+ KthMinElement
 MaxSumSubArray.java
  MaxSumSubArray
+Count.java
+ Count
+MinimizeHeights.java
+ MinimizeHeights
+MaxSumContigousArrayKadane.java
+ MaxSumContigousArrayKadane
+GenericTest.java
+ GenericTest
+Overrideentest.java
+ A
+ B
+ Overrideentest
+ Overrideentest$1
+MinMaxArrayElement.java
+ MinMaxArrayElement
+FindMissingAndDuplicate.java
+ FindMissingAndDuplicate
+SortZeroAnd1.java
+ SortZeroAnd1
+RotateArrayByOne.java
+ RotateArrayByOne
+ReverseArray.java
+ ReverseArray
+MoveNegative.java
+ MoveNegative
+SortZeroAndOne2.java
+ SortZeroAndOne2
 Rectangle.java
  LSPDemo
  Rectangle
  Square
-GenericTest.java
- GenericTest
-Count.java
- Count
-ReverseArray.java
- ReverseArray
-MinMaxArrayElement.java
- MinMaxArrayElement
-KthMinElement.java
- KthMinElement
+ConsecutiveSum.java
+ ConsecutiveSum
+Kadane.java
+ Kadane
 MoveNegativeOneSide.java
  MoveNegativeOneSide
-UnionAndIntersectionOfTwoArray.java
- UnionAndIntersectionOfTwoArray
-RotateArrayByOne.java
- RotateArrayByOne
-MaxSumContigousArrayKadane.java
- MaxSumContigousArrayKadane
+CountPair.java
+ CountPair
+NextPermutation.java
+ NextPermutation
+MergedOverlapInterval.java
+ MergedOverlapInterval
+CountPairSum.java
+ CountPairSum
+CountogousArray.java
+ CountogousArray
