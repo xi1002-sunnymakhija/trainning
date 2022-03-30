@@ -55,3 +55,11 @@ CountPairSum.java
  CountPairSum
 CountogousArray.java
  CountogousArray
+CountElementGreaterThanNK.java
+ CountElementGreaterThanNK
+MinSwapRequired.java
+ MinSwapRequired
+MinimumNumberStep.java
+ MinimumNumberStep
+CommonElementInThreeSortedArray.java
+ CommonElementInThreeSortedArray

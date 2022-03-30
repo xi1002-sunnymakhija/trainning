@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/array.iml" filepath="$PROJECT_DIR$/.idea/modules/array.iml" />
       <module fileurl="file://$PROJECT_DIR$/general/general.iml" filepath="$PROJECT_DIR$/general/general.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/linklist.iml" filepath="$PROJECT_DIR$/.idea/modules/linklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/matrix.iml" filepath="$PROJECT_DIR$/.idea/modules/matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/string/string.iml" filepath="$PROJECT_DIR$/string/string.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/trainning-ws.iml" filepath="$PROJECT_DIR$/.idea/trainning-ws.iml" />
