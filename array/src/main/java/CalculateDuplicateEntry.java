@@ -9,7 +9,7 @@ public class CalculateDuplicateEntry {
 
 
 
-        int[] nums = new int[]{1, 2, 3, 4, 5, 5};
+        int[] nums = new int[]{2, 5, 4, 5, 3, 1};
         System.out.println(findDuplicate(nums));
     }
 

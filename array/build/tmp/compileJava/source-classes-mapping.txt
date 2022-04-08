@@ -1,7 +1,7 @@
 MeanCalculator.java
  MeanCalculator
-CalculateDuplicateEntry.java
- CalculateDuplicateEntry
+CommonElementInThreeSortedArray.java
+ CommonElementInThreeSortedArray
 UnionAndIntersectionOfTwoArray.java
  UnionAndIntersectionOfTwoArray
 KthMinElement.java
@@ -39,8 +39,8 @@ Rectangle.java
  LSPDemo
  Rectangle
  Square
-ConsecutiveSum.java
- ConsecutiveSum
+CalculateDuplicateEntry.java
+ CalculateDuplicateEntry
 Kadane.java
  Kadane
 MoveNegativeOneSide.java
@@ -61,5 +61,5 @@ MinSwapRequired.java
  MinSwapRequired
 MinimumNumberStep.java
  MinimumNumberStep
-CommonElementInThreeSortedArray.java
- CommonElementInThreeSortedArray
+ConsecutiveSum.java
+ ConsecutiveSum

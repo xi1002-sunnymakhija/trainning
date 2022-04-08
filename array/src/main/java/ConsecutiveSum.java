@@ -2,12 +2,14 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.locks.ReentrantLock;
+import java.util.function.Function;
 
 public class ConsecutiveSum {
 
     public static void main(String[] a) {
+        Function
 
-        int[] ar = new int[]{1, 2, 3, 4, 5, 6, 101, 102, 103, 104, 105};
+        int[] ar = new int[]{1, 2, 3, 4, 5, 6, 101, 102, 104, 105};
 
         System.out.println(finConsecutiveSum(ar));
 
