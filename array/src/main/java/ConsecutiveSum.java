@@ -7,7 +7,7 @@ import java.util.function.Function;
 public class ConsecutiveSum {
 
     public static void main(String[] a) {
-        Function
+
 
         int[] ar = new int[]{1, 2, 3, 4, 5, 6, 101, 102, 104, 105};
 

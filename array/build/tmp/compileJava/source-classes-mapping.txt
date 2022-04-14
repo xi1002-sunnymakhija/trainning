@@ -1,65 +1,67 @@
-MeanCalculator.java
- MeanCalculator
+CalculateDuplicateEntry.java
+ CalculateDuplicateEntry
+Kadane.java
+ Kadane
 CommonElementInThreeSortedArray.java
  CommonElementInThreeSortedArray
+MinSwapRequired.java
+ MinSwapRequired
+MinimizeHeights.java
+ MinimizeHeights
+MaxSumContigousArrayKadane.java
+ MaxSumContigousArrayKadane
+CountPairSum.java
+ CountPairSum
+MinMaxArrayElement.java
+ MinMaxArrayElement
+FindMissingAndDuplicate.java
+ FindMissingAndDuplicate
+MoveNegativeOneSide.java
+ MoveNegativeOneSide
+SortZeroAndOne2.java
+ SortZeroAndOne2
+MeanCalculator.java
+ MeanCalculator
+MergedOverlapInterval.java
+ MergedOverlapInterval
+ConsecutiveSum.java
+ ConsecutiveSum
 UnionAndIntersectionOfTwoArray.java
  UnionAndIntersectionOfTwoArray
+NextPermutation.java
+ NextPermutation
 KthMinElement.java
  KthMinElement
 MaxSumSubArray.java
  MaxSumSubArray
 Count.java
  Count
-MinimizeHeights.java
- MinimizeHeights
-MaxSumContigousArrayKadane.java
- MaxSumContigousArrayKadane
+MoveNegative.java
+ MoveNegative
 GenericTest.java
  GenericTest
+CountElementGreaterThanNK.java
+ CountElementGreaterThanNK
 Overrideentest.java
  A
  B
  Overrideentest
  Overrideentest$1
-MinMaxArrayElement.java
- MinMaxArrayElement
-FindMissingAndDuplicate.java
- FindMissingAndDuplicate
+CountogousArray.java
+ CountogousArray
 SortZeroAnd1.java
  SortZeroAnd1
 RotateArrayByOne.java
  RotateArrayByOne
 ReverseArray.java
  ReverseArray
-MoveNegative.java
- MoveNegative
-SortZeroAndOne2.java
- SortZeroAndOne2
+MinimumNumberStep.java
+ MinimumNumberStep
 Rectangle.java
  LSPDemo
  Rectangle
  Square
-CalculateDuplicateEntry.java
- CalculateDuplicateEntry
-Kadane.java
- Kadane
-MoveNegativeOneSide.java
- MoveNegativeOneSide
 CountPair.java
  CountPair
-NextPermutation.java
- NextPermutation
-MergedOverlapInterval.java
- MergedOverlapInterval
-CountPairSum.java
- CountPairSum
-CountogousArray.java
- CountogousArray
-CountElementGreaterThanNK.java
- CountElementGreaterThanNK
-MinSwapRequired.java
- MinSwapRequired
-MinimumNumberStep.java
- MinimumNumberStep
-ConsecutiveSum.java
- ConsecutiveSum
+FindNextPermutationLexi.java
+ FindNextPermutationLexi

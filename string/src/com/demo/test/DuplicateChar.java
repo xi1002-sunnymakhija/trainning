@@ -3,7 +3,7 @@ package com.demo.test;
 public class DuplicateChar {
     public static void main(String[] a)
     {
-        String s= "sunny makhija";
+        String s= "sunny makhijas";
         findDuplicate(s);
     }
 
@@ -18,10 +18,11 @@ public class DuplicateChar {
         for(int i=0;i<a.length;i++)
         {
             if(a[i] > 1)
-           System.out.println("i: "+i+":  "+a[i] + Character.toString ((char) i));
+           System.out.println("i: "+i+":  "+a[i] +  ((char) i));
 
         }
-
+        String s1 = arr.toString();
+        System.out.println(String.valueOf(arr));
 
     }
 }
